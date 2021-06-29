@@ -4,7 +4,9 @@ channels:
 dependencies:
   - python=3.8
   - bokeh>2.0.0
-  - dask=2.25.0
+  - coiled=0.0.39
+  - dask=2021.06.2
+  - distributed=2021.06.2
   - dask-labextension>=2.0.0
   - jupyterlab
   - nodejs=14
